@@ -1,0 +1,7 @@
+    venv
+    .DS_Store
+    .vscode
+    __pycache__
+    *.csv
+    *.pyc
+    *.zip
